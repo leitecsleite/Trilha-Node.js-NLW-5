@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Resultado:
 
 
-### Autor
+### Estudante
 ---
 
 <a href="#">
@@ -24,6 +24,4 @@ Resultado:
  <sub><b>Lucas</b></sub></a>
 
 
-Feito com ❤️ por Lucas Leite 👋🏽 Entre em contato!
-
- [![Linkedin Badge](https://media-exp1.licdn.com/dms/image/C4E35AQGZkOOoatBuIQ/profile-framedphoto-shrink_400_400/0/1616293618663?e=1618956000&v=beta&t=m0-tjU0T1FlJ27YQFsLnomsVpiizmuJfVEQMcyeitAs)](https://www.linkedin.com/in/lucas-leite-56b2801b0/) 
+Feito com ❤️ por Lucas Leite 👋🏽 
