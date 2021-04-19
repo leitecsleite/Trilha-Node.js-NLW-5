@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Resultado:
 
 
-### Estudante
+### Estudante da NLW
 ---
 
 <a href="#">
