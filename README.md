@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Framework
 
--[Typeorm](https://www.npmjs.com/package/typeorm)
+- [Typeorm](https://www.npmjs.com/package/typeorm)
 
 
 ### Estudante da NLW
