@@ -5,6 +5,10 @@ Next Level - Rocketseat - Trilha Node.js
 	🚧  Projeto  🚀 Em construção...  🚧
 </h4>
 
+### Aprendizado
+
+<h3> Banco de Dados</h3>
+Bancos de dados relacionais como MySQL, PostgreSQL e SQLite3 representam e armazenam dados em tabelas e filas. Eles são baseados em um ramo da teoria do conjunto algébrico conhecido como álgebra relacional. Bancos de dados não-relacionais como o MongoDB representam dados em coleções de documentos JSON.
 
 ### 🛠 Tecnologias
 
