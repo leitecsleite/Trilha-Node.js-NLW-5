@@ -16,7 +16,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-Resultado:
+
+
+### Framework
+
+-[Typeorm](https://www.npmjs.com/package/typeorm)
 
 
 ### Estudante da NLW
